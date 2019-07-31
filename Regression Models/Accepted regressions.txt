@@ -1,0 +1,19 @@
+Best
+
+Multiple Linear
+Solution 1 - Multiple Linear Regression = 33.40658
+Solution 6 - Multiple Linear Regression Mem Avg = 33.00252
+
+
+Polynomial
+Solution 5 - Polynomial Regression, degree 2 = 27.52877
+Solution 10 - Polynomial Regression, degree2, removing chmin, chmax and getting average of memory = 26.18 -- Best one
+
+
+Random Forest
+Solution 12 - Random Forest Regression with 290 trees = 23.43963
+Solution 12 - Random Forest Regression with 289 trees and improving hyperparams  = 22.68259 -- Best one
+
+
+SVR
+Solution 13 - SVR with kernel RBF = 26.74104
