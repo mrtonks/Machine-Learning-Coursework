@@ -1,11 +1,11 @@
 * Data used for this project
 
-Plesae follow the folder structure for storing the data. If there is data there already, than you should not add anymore data.
+Please, follow the folder structure for storing the data. If there is data there already, then you should not add anything else.
 
 
 * Folder structure
 
-The folder structure should be as shown, please follow it (included in zip inside "Other" folder):
+The folder structure should be as shown. Please, follow it (included in zip inside "Other" folder):
 - Data
 	- Classification Models
 	- Regression Models
